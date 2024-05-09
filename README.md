@@ -18,11 +18,15 @@
 
 - [2023/11/10] LLaVA-Plus: Large Language and Vision Assistants that Plug and Learn to Use Skills [[paper](https://arxiv.org/abs/2311.05437)] [[code](https://github.com/LLaVA-VL/LLaVA-Plus-Codebase)]
 
+- [2023/12/6] LLaVA-Grounding: Grounded Visual Chat with Large Multimodal Models [[paper](https://arxiv.org/abs/2312.02949)] [[code](https://github.com/UX-Decoder/LLaVA-Grounding)]
+
 ## LLAVA-based  (Unoffical)
 
 - [CVPRW'24] Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs [[paper](https://arxiv.org/abs/2404.15406)]
 
 - [Arxiv'24] PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning [[paper](https://arxiv.org/abs/2404.16994)] [[code](https://github.com/magic-research/PLLaVA)]
+
+- [Arxiv'24] LLaVA-Phi & Mipha: Towards Multimodal Small Language Models [[paper](https://arxiv.org/abs/2401.02330)] [[code](https://github.com/zhuyiche/llava-phi)]
 
 ## MLLM
 
