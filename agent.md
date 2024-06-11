@@ -15,3 +15,7 @@
 - LangGraph [[Github](https://github.com/langchain-ai/langgraph)]
 
 - AutoGen [[Github](https://github.com/microsoft/autogen)]
+
+# Meta
+
+- MetaGPT [[Github](https://github.com/geekan/MetaGPT)] [[blog](https://mp.weixin.qq.com/s/rRpUt9QvK47h3TpKtl9vtg)]
