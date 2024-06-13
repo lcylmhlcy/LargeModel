@@ -28,6 +28,10 @@
 
 - [Arxiv'24] LLaVA-Phi & Mipha: Towards Multimodal Small Language Models [[paper](https://arxiv.org/abs/2401.02330)] [[code](https://github.com/zhuyiche/llava-phi)]
 
+- [Arxiv'24] ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models [[paper](https://arxiv.org/abs/2405.15738)] [[code](https://github.com/alibaba/conv-llava)] [[blog](https://mp.weixin.qq.com/s/_MWpuGLAj3D8D1Ijdf197g?poc_token=HLqTamaj2XbCc4vt7vWI3iEjBbdTBh_LtKdR-l64)] **Alibaba**
+
+- [Arxiv'24] TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models [[paper](https://arxiv.org/abs/2405.11788)] [[code](https://github.com/TinyLLaVA/TinyLLaVA_Factory)] [[HF](https://huggingface.co/tinyllava)] [[blog](https://mp.weixin.qq.com/s/rQM9pXn4s8KZcXy7DW63kw)] **支持定制、训练、评估多模态大模型**
+
 ## MLLM
 
 - [ICLR'24] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[paper](https://arxiv.org/abs/2310.18961)] [[code](https://github.com/zqhang/AnomalyCLIP)]
