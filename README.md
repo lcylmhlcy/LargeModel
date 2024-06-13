@@ -24,7 +24,7 @@
 
 - [CVPRW'24] Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs [[paper](https://arxiv.org/abs/2404.15406)]
 
-- [Arxiv'24] PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning [[paper](https://arxiv.org/abs/2404.16994)] [[code](https://github.com/magic-research/PLLaVA)]
+- [Arxiv'24] PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning [[paper](https://arxiv.org/abs/2404.16994)] [[code](https://github.com/magic-research/PLLaVA)] [[blog](https://mp.weixin.qq.com/s/_3vlEMcqL3fOp8fRHtMvCQ)]
 
 - [Arxiv'24] LLaVA-Phi & Mipha: Towards Multimodal Small Language Models [[paper](https://arxiv.org/abs/2401.02330)] [[code](https://github.com/zhuyiche/llava-phi)]
 

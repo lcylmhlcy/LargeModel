@@ -23,6 +23,8 @@
 
 - [Arxiv'24] Dynamic Pre-training: Towards Efficient and Scalable All-in-One Image Restoration [[paper](https://arxiv.org/abs/2404.02154)] [[code](https://github.com/akshaydudhane16/DyNet)] [[blog](https://mp.weixin.qq.com/s/HAUMXuTR9MUeChZOmw-Dtw)]
 
+- [Arxiv'24] Language-driven All-in-one Adverse Weather Removal [[paper](https://arxiv.org/abs/2312.01381)] [[code](https://github.com/noxsine/LDR)]
+
 ### Style Transfer
 - [PAMI'24] Learning with Style: Continual Semantic Segmentation Across Tasks and Domains [[paper](https://ieeexplore.ieee.org/abstract/document/10521870)] [[code](https://lttm.dei.unipd.it/paper_data/LwS)] [[blog](https://mp.weixin.qq.com/s/10jd9DFM6GGMXzB8NgXoxA)]
 
@@ -33,14 +35,26 @@
 
 - [ICML'24] Spider: A Unified Framework for Context-dependent Concept Segmentation [[paper](https://arxiv.org/abs/2405.01002)] [[code](https://github.com/Xiaoqi-Zhao-DLUT/Spider-UniCDSeg)] [[blog](https://mp.weixin.qq.com/s/_qaKf6ctRm0A0VYWL63umQ)]
 
+- [CVPR'24] LISA: Reasoning Segmentation via Large Language Model [[paper](https://arxiv.org/abs/2308.00692)] [[code](https://github.com/dvlab-research/LISA)] [[blog](https://mp.weixin.qq.com/s/jaGWEyHQBI6C9zBk9BHLYg)]
+
+- [CVPR'24] Matching Anything by Segmenting Anything [[paper](https://arxiv.org/abs/2406.04221)] [[code](https://github.com/siyuanliii/masa)] [[blog](https://mp.weixin.qq.com/s/pDBZa4ZdPT3VDb-70RP2ww)]
+
 ### Detection
 - [IGARSS'24] CLIP-Guided Source-Free Object Detection in Aerial Images [[paper](https://arxiv.org/abs/2401.05168)] [[code](https://github.com/Lans1ng/SFOD-RS)] [[blog](https://mp.weixin.qq.com/s/aLct42mA6sCpiMYYJw1rJw)]
+
+- [WACV'24] Data Augmentation for Object Detection via Controllable Diffusion Models [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Fang_Data_Augmentation_for_Object_Detection_via_Controllable_Diffusion_Models_WACV_2024_paper.html)] [[blog](https://mp.weixin.qq.com/s/zK2hvs0hmrhdPZrmuSO9-A)]
+
+### Depth Estimation
+- [PAMI'24] AGDF-Net: Learning Domain Generalizable Depth Features With Adaptive Guidance Fusion [[paper](https://ieeexplore.ieee.org/abstract/document/10356721/)] [[blog](https://mp.weixin.qq.com/s/VOtHHjLH52GqD2G-W7DXRA)]
 
 ### Face
 - [CVPR'24] Unsupervised Gaze Representation Learning from Multi-view Face Images [[paper]()] [[code]()] [[blog](https://mp.weixin.qq.com/s/kHQ5WAV1-GtQ-dO_Cw6onA)]
 
 ### Retrival
 - [Arxiv'24] Jina CLIP: Your CLIP Model Is Also Your Text Retriever [[paper](https://arxiv.org/abs/2405.20204)] [[HF](https://huggingface.co/jinaai/jina-clip-v1)] [[blog](https://mp.weixin.qq.com/s/4UE6F2Xy0CvrcfoMoTCUBg)]
+
+### Pre-trained
+- [PAMI'24] X2-VLM: All-in-One Pre-Trained Model for Vision-Language Tasks [[paper](https://arxiv.org/abs/2211.12402)] [[code](https://github.com/zengyan-97/X2-VLM)] [[blog](https://mp.weixin.qq.com/s/ljwi5FJJt2FRhtBsnSVE1w)]
 
 ### Others
 - [Arxiv'24] Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities [[paper](https://arxiv.org/abs/2405.18669)] [[blog](https://mp.weixin.qq.com/s/F8wstkJyYiNJCbSqYq3Pbw)] **DeepMind**
