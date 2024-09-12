@@ -40,4 +40,6 @@
 
 - [Arxiv'24] Draw-and-Understand: Leveraging Visual Prompts to Enable MLLMs to Comprehend What You Want [[paper](https://arxiv.org/abs/2403.20271)] [[code](https://github.com/AFeng-x/Draw-and-Understand)]
 
-- [Arxiv'24] PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model [[paper](https://arxiv.org/abs/2403.14598)] [[code](https://github.com/zamling/PSALM)] [[HugFace](https://huggingface.co/EnmingZhang/PSALM)] 
+- [Arxiv'24] PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model [[paper](https://arxiv.org/abs/2403.14598)] [[code](https://github.com/zamling/PSALM)] [[HugFace](https://huggingface.co/EnmingZhang/PSALM)]
+
+- [ECCV'24] VisionLLaMA: A Unified LLaMA Backbone for Vision Tasks [[paper](https://arxiv.org/abs/2403.00522)] [[code](https://github.com/meituan-automl/visionllama)] [[blog](https://mp.weixin.qq.com/s/xPrmghVVEzl5BPx3IPpREw)] 

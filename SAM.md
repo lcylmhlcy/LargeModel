@@ -68,6 +68,8 @@
 
 - [Arxiv'24] Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model [[paper](https://arxiv.org/abs/2406.19369)] [[code](https://github.com/HarborYuan/ovsam)] **Open-Vocabulary SAM**
 
+- [Arxiv'24] Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation [[paper](https://arxiv.org/abs/2408.15876)] [[code](https://github.com/appletea233/AL-Ref-SAM2)] [[blog](https://mp.weixin.qq.com/s/uLvW3swjVwA8MlCcPsZBwA)] **GPT-4 + SAM2**
+
 ---
 
 ## Medical
@@ -120,6 +122,11 @@
 - [TGARS'24] RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model [[paper](https://arxiv.org/abs/2306.16269)] [[code](https://github.com/KyanChen/RSPrompter)] [[HugFace](https://huggingface.co/spaces/KyanChen/RSPrompter)] [[blog](https://mp.weixin.qq.com/s/A8lOQ33cwQSUl_vURH1oJQ)]
 
 - [CVPRW'24] Segment Anything Model for Road Network Graph Extraction [[paper](http://arxiv.org/abs/2403.16051)] [[code](https://github.com/htcr/sam_road)] [[blog](https://mp.weixin.qq.com/s/iQS_xwPmIFAFDHgM3Wwbuw)]
+
+---
+
+## 3-D
+- [Arxiv'24] SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners [[paper](https://arxiv.org/abs/2408.16768)] [[code](https://github.com/ZiyuGuo99/SAM2Point)] [[blog](https://mp.weixin.qq.com/s/cdSpiZu-vechAD53f6od9A)]
 
 ---
 
