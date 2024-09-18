@@ -29,6 +29,12 @@
 
 - [CVPR'23] Visual Programming: Compositional visual reasoning without training [[paper](https://arxiv.org/abs/2211.11559)] [[code](https://github.com/allenai/visprog)] **best paper**
 
+    - [CVPR'24] SPOC: Imitating Shortest Paths in Simulation Enables Effective Navigation and Manipulation in the Real World [[paper](https://arxiv.org/abs/2312.02976)] [[code](https://github.com/allenai/spoc-robot-training)] [[project](https://spoc-robot.github.io/)] **机器人在现实世界中的导航和操控**
+
+    - [CVPRW'24] m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks [[paper](https://arxiv.org/abs/2403.11085)] [[code](https://github.com/RAIVNLab/mnms)] [[project](https://mnms-project.github.io/)] **包含4000+多步骤多模态任务的基准数据集**
+
+    - [Arxiv'24] CodeNav: Beyond tool-use to using real-world codebases with LLM agents [[paper](https://arxiv.org/abs/2406.12276v1)] [[code](https://github.com/allenai/codenav)] [[project](https://codenav.allenai.org/)] **导航并利用以前未见过的代码库（Visprog进阶）**
+
 - [ICCV'23] ViperGPT: Visual Inference via Python Execution for Reasoning [[paper](https://arxiv.org/abs/2303.08128)] [[code](https://github.com/cvlab-columbia/viper)] [[project](https://viper.cs.columbia.edu/)]
 
 - [Arxiv'23] ControlLLM: Augment Language Models with Tools by Searching on Graphs [[paper](https://arxiv.org/abs/2310.17796)] [[code](https://github.com/opengvlab/controlllm)] **Shanghai AILab**
