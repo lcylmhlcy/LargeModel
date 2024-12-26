@@ -70,6 +70,8 @@
 
 - [Arxiv'24] Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation [[paper](https://arxiv.org/abs/2408.15876)] [[code](https://github.com/appletea233/AL-Ref-SAM2)] [[blog](https://mp.weixin.qq.com/s/uLvW3swjVwA8MlCcPsZBwA)] **GPT-4 + SAM2**
 
+- [Arxiv'24] Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything [[paper](https://arxiv.org/abs/2412.03472)]
+
 ---
 
 ## Medical
@@ -127,6 +129,11 @@
 
 ## 3-D
 - [Arxiv'24] SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners [[paper](https://arxiv.org/abs/2408.16768)] [[code](https://github.com/ZiyuGuo99/SAM2Point)] [[blog](https://mp.weixin.qq.com/s/cdSpiZu-vechAD53f6od9A)]
+
+---
+
+## Others
+- [MM'24] Multi-scale and detail-enhanced segment anything model for salient object detection [[paper](https://arxiv.org/abs/2408.04326)] [[code](https://github.com/BellyBeauty/MDSAM)] [[blog](https://mp.weixin.qq.com/s/K9tgaNlVjy6QKFKi7C0Nww)]
 
 ---
 

@@ -32,6 +32,9 @@
 
 - [Arxiv'24] TinyLLaVA Factory: A Modularized Codebase for Small-scale Large Multimodal Models [[paper](https://arxiv.org/abs/2405.11788)] [[code](https://github.com/TinyLLaVA/TinyLLaVA_Factory)] [[HF](https://huggingface.co/tinyllava)] [[blog](https://mp.weixin.qq.com/s/rQM9pXn4s8KZcXy7DW63kw)] **支持定制、训练、评估多模态大模型**
 
+- [Arxiv'24] LLaVA-CoT: Let Vision Language Models Reason Step-by-Step [[code](https://wisemodel.cn/codes/KevinTHU/LLaVA-CoT)]
+    - [Arxiv'24] LLaVA-o1: Let Vision Language Models Reason Step-by-Step [[code](https://github.com/PKU-YuanGroup/LLaVA-o1)] **Previous Version**
+
 ## MLLM
 
 - [ICLR'24] AnomalyCLIP: Object-agnostic Prompt Learning for Zero-shot Anomaly Detection [[paper](https://arxiv.org/abs/2310.18961)] [[code](https://github.com/zqhang/AnomalyCLIP)]

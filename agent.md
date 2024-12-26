@@ -18,6 +18,8 @@
 ### Others
 - Flowise [[Github](https://github.com/FlowiseAI/Flowise)] [[blog](https://mp.weixin.qq.com/s/qGRUALBoJU4fziOQ75He4A)]
 
+- Vision RAG [[Github](https://github.com/Softlandia-Ltd/vision-is-all-you-need)]
+
 ## 科学研究
 
 ### VQA
